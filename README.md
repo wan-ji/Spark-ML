@@ -4,4 +4,4 @@
 
 <br/>
 
-* A Spark Application deployed on Airflow to compute retention rates from raw bike share data
+* A Spark (written in Scala) Application deployed on Airflow to compute retention rates from raw bike share data
